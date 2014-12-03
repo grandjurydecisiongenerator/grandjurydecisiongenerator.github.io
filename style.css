@@ -1,0 +1,36 @@
+body {
+  margin: 20px;
+  /* background-image: url("background.png"); */
+}
+
+.container {
+  width: 600px;
+}
+
+.jumbotron {
+  /* text-align: center; */
+  /* border-bottom: 1px solid #e5e5e5; */
+  /* background-color: #ECE6DA; */
+}
+
+.jumbotron h1 {
+  font-size: 48px;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 20px;
+  color: #888;
+}
+
+a {
+  text-decoration: underline;
+}
+
+li {
+  font-size: 17px;
+}
+
+p.small {
+  font-size: 14px;
+}
